@@ -1,3 +1,5 @@
+![TestCombiner logo](./Combiner.png)
+
 # TestCombiner
 
 **TestCombiner** is the hardware pillar of the TC-Platform: a modular, extensible instrument platform that enables easy integration, control, and automation of various measurement and control modules.
